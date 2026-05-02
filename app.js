@@ -60,7 +60,7 @@ app.get("/", (req, res) => {
           </div>
 
           <div class="info">
-            CI/CD Pipeline Status: Active
+            CI/CD Pipeline Status: Auto Deployment Working
           </div>
 
         </div>
