@@ -45,7 +45,7 @@ app.get("/", (req, res) => {
       <body>
 
         <div class="container">
-          <h1>🚀 Group 3 Production Web App</h1>
+          <h1> Group 3 Production Web App</h1>
 
           <div class="status">
             ✅ Application Running Successfully
