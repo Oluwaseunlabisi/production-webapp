@@ -48,7 +48,15 @@ app.get("/", (req, res) => {
           <h1> Group 3 Production Web App</h1>
 
           <div class="status">
-            ✅ Application Running Successfully, HTTPS & Domain configured successfully as well. Yippee!!!
+            ✅ Application Running Successfully
+          </div>
+
+          <div class="info">
+            🔒 HTTPS Enabled Successfully
+          </div>
+
+          <div class="info">
+            🌐 Custom Domain Connected Successfully
           </div>
 
           <div class="info">
