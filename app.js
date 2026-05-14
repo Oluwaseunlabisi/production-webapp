@@ -56,7 +56,7 @@ app.get("/", (req, res) => {
           </div>
 
           <div class="info">
-            🌐 Custom Domain Connected Successfully
+            🌐 Custom Domain Connected Successfully. Live Demo ongoing
           </div>
 
           <div class="info">
